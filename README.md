@@ -30,7 +30,7 @@ Very affordable pricing, each PostCode API request costs **2P** per API call irr
 Feel like getting started right away? You can sign up for a Free Trial plan to get free requests: [Signup - Free Trial](https://www.theapibridge.com/signup)
 
 ## Documentation
-An extensive API documentation, including code examples and extensive descriptions can be found [here](https://www.theapibridge.com/docs/findbyudprn).
+An extensive API documentation, including code examples and extensive descriptions can be found [https://docs.theapibridge.com/docs/find-by-udprn/introduction](https://docs.theapibridge.com/docs/find-by-udprn/introduction).
 
 ## Customer Support
 For any API integration, support, technical or billing-related queries? [Get in touch with us](mailto:hello@theapibridge.com).
